@@ -27,7 +27,6 @@ schema_view = get_schema_view(
    openapi.Info(
       title="Car Auction API",
       default_version='v1',
-      description="Документация для аукциона машин",
       terms_of_service="https://www.google.com/policies/terms/",
       contact=openapi.Contact(email="admin@auction.local"),
       license=openapi.License(name="BSD License"),
